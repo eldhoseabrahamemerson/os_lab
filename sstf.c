@@ -3,7 +3,7 @@
 
 int main() {
     int requests[100], n, head, totalSeek = 0;
-    int visited[100] = {0};
+    int visited[100] = {0}; 
 
     printf("Enter number of disk requests: ");
     scanf("%d", &n);
